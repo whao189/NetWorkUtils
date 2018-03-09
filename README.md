@@ -5,6 +5,7 @@ this module just for android,  when the app need listener net work changed. etc 
 step :
 
 1 your context implements INetWorkModule
+
 2 when your context( Activity , Service , or Application),register it and unregister it
 
 
